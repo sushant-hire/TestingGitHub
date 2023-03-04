@@ -1,8 +1,9 @@
 import React from "react";
+import "./TestingGit.css";
 
 function TestingGit() {
   return (
-    <div>
+    <div className="HeadingContainer" >
       <h1>This is Git Testing</h1>
     </div>
   );
